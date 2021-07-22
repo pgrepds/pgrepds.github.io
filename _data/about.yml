@@ -1,0 +1,24 @@
+- title: Research Interests # Title for the section
+  layout: list # Type of content section (list/text)
+  flex-direction: row
+  content:
+    - layout: left
+      title: Structural- and Chromatic Graph Theory
+      description: | # this will include new lines to allow paragraphs
+        chi-binding functions, forbidden induced subgraphs, hereditary graph properties
+    - layout: left
+      title: Algorithm Design
+      description: | # this will include new lines to allow paragraphs
+        graph colouring, graph generation, graph recognition, complexity theory
+    - layout: left
+      title: Computer-Aided Mathematics
+      description: | # this will include new lines to allow paragraphs
+        automated conjecture-making and automated reasoning
+- title: Personal Interests
+  layout: text
+  content: | # this will include new lines to allow paragraphs
+    Research takes up most of my life. In the little time available, I am interested in the latest technologies used in software development, in current programming languages and in almost all new achievements from other fields of mathematics, computer science and physics. I am increasingly involved in IT security and cryptography in particular and I currently spend most of my free time dealing with topics from these interesting areas.
+
+    I was a passionate endurance athlete for a long time and still do a variety of sports, such as running, swimming and weight training. Besides that, I currently like to occupy myself with the philosophy of Immanuel Kant, the literature of J.R.R. Tolkien and with playing chess.
+
+    I am fascinated by the endless exactness, flawlessness and pure beauty of mathematics and its consequent manifestation in computer science. Especially the apparent simplicity of graph theory, which can become so arbitrarily complex, captivates me every day and drives me into a perfectionist obsession to solve its problems and I could not be more grateful for the opportunity to realise myself in science, and no matter how strenuous the path may become, it is a quite wonderful one.

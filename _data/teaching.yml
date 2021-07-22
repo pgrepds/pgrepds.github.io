@@ -1,0 +1,9 @@
+- title: Supervision
+  layout: list
+  content:
+    - layout: top-left
+      title: TH Köln - University of Applied Sciences
+      sub_title: Computer Science
+      caption: 2021
+      description: | # this will include new lines to allow paragraphs
+        Second examiner of a bachelor’s thesis in the area of odd hole detection algorithms.

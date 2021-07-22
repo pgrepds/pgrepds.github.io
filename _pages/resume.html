@@ -1,0 +1,15 @@
+---
+permalink: "/resume/"
+layout: default
+title: "resume"
+order: 1
+---
+
+{% for section in
+  site.data.cv %}
+  <div class="{{ section.layout }}-container">
+    <h3>{{ section.title }}</h3>
+    {% include {{ section.layout | section.text-alignment | prepend: "section-" | append: ".html" }}
+    content=section.content %}
+  </div>
+{% endfor %}

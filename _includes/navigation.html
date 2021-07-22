@@ -1,0 +1,11 @@
+<div class="navigation-container">
+  <div class="site-navigation h4">
+    {% assign pages = site.pages | sort: "order" %}
+    {% for page in pages %}
+        {% unless page.exclude %}
+            <a class="page-link top-navigation" href="{{ page.url | absolute_url }}">{{ page.title }}</a
+            ><span class="exclamationMark">/</span>
+        {% endunless page.exclude %}
+    {% endfor %}
+  </div>
+</div>

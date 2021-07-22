@@ -1,0 +1,134 @@
+- title: Education
+  layout: list
+  content:
+    - layout: top-left
+      title: Dr. rer. nat. // Ph.D.
+      sub_title: Institute for Computer Science, University of Cologne
+      caption: 2021 - current
+      description: | # this will include new lines to allow paragraphs
+        Research areas: structural graph theory, chromatic graph theory.
+
+        Supervisor: Prof. Dr. habil. Hubert Randerath.
+    - layout: top-left
+      title: Master of Science (M.Sc.) Computer Science & Engineering
+      sub_title: TH Köln - University of Applied Sciences
+      caption: 2017 - 2020
+      description: | # this will include new lines to allow paragraphs
+        Main modules: Graph Theory, Theoretical Computer Science, Computational Intelligence, Mathematics.
+
+        Thesis title: "Generating Subfamilies of 1-Planar Graphs for automated Conjecture-Making."
+    - layout: top-left
+      title: Bachelor of Engineering (B.Eng.) Computer Science
+      sub_title: Baden-Wuerttemberg Cooperative State University (DHBW)
+      caption: 2013 - 2016
+      description: | # this will include new lines to allow paragraphs
+        The study programme at the DHBW is characterised by a three-month alternation between study and practical phases. The theoretical teaching in computer science and related engineering sciences has been imparted in the form of a bachelor's degree. The practical teaching was completed at the German Aerospace Center (DLR) at the Institute of Air Transport and Airport Research and the Institute for Software Technology at the Department for Intelligent and Distributed Systems.
+
+        Thesis title: "Automated Log File Analysis using Machine Learning Techniques."
+    - layout: top-left
+      title: Abitur
+      sub_title: Albertus-Magnus-Gymnasium Bensberg
+      caption: 2004 - 2013  
+- title: Professional Positions
+  layout: list
+  content:
+    - layout: top-left
+      title: Software Engineer
+      sub_title: SCOOP Software GmbH
+      caption: 2021 - current
+      quote: >
+        Development of custom software.
+      description: | # this will include new lines to allow paragraphs
+        <div>
+          <input type="checkbox" class="read-more-state" id="position-1" />
+          <ul class="read-more-wrap">
+            <li>Development of a mobile application for iOS and Android using React Native. Particularly involved in implementing a hybrid cryptosystem (RSA, AES, PKCS#7) for client-side encryption using node-forge, pki.js and native implementation for iOS and Android,</li>
+            <li>Supporting the development of a responsive Ecommerce Website using HTML, CSS and JavaScript.</li>
+          </ul>
+        </div>  
+    - layout: top-left
+      title: Software Engineer
+      sub_title: parcIT GmbH
+      caption: 2017 - 2020
+      quote: >
+        I further developed the software system "Okular" for overall bank- and credit risk management by fulfilling the following key features.
+      description: | # this will include new lines to allow paragraphs
+        <div>
+          <input type="checkbox" class="read-more-state" id="position-2" />
+          <ul class="read-more-wrap">
+            <li>Development of frameworks for the software system's basis in the Java programming language,</li>
+            <li>Development of a toolsuite for the automated migration of legacy code to a generated API using the library JavaParser,</li>
+            <li class="read-more-target">Extension of an in-house framework for PDF generation on the basis of the library iText,</li>
+            <li class="read-more-target">Development of automated UI tests using the Lean Functional Testing- as well as the Robot Framework,</li>
+            <li class="read-more-target">Development of a compatibility layer for an external tool suite for the automatic migration of Smalltalk UI masks into in-house Java UI components in cooperation with an US company.</li>
+          </ul>
+          <label for="position-2" class="read-more-trigger"></label>
+        </div>
+    - layout: top-left
+      title: Software Engineer
+      sub_title: German Aerospace Center (DLR)
+      caption: 2013 - 2017
+      quote: >
+        I worked at the Institute of Air Transport and Airport Research and the Institute for Software Technology at the Department for Intelligent and Distributed Systems, mainly on the following topics.
+      description: | # this will include new lines to allow paragraphs
+        <div>
+          <input type="checkbox" class="read-more-state" id="position-3" />
+          <ul class="read-more-wrap">
+            <li>Creation of a flight plan forecasting and fleet replacement tool,</li>
+            <li>Extension of the Distributed Integration Environment "Remote Component Environment" (RCE) mainly used in Simulation Sciences for building complex optimization workflows,</li>
+            <li class="read-more-target">Development of a tool suite for the automated deployment of RCE test instances,</li>
+            <li class="read-more-target">Development of a service for collecting monitoring data and their subsequent distribution in the network of RCE,</li>
+            <li class="read-more-target">Implementation of a parser for translating the Common MDO Workflow Schema (CMDOWS) into a RCE workflow. The project was part of the EU project AGILE.</li>
+          </ul>
+          <label for="position-3" class="read-more-trigger"></label>
+        </div>
+- title: Technical Skills
+  layout: list
+  content:
+    - layout: top-left
+      text-alignment: left
+      title: Programming Languages
+      description: | # this will include new lines to allow paragraphs
+        Java, JavaScript, TypeScript, Python, Kotlin, C++, Mathematica, Bash
+    - layout: top-left
+      text-alignment: left
+      title: Frameworks and Libraries
+      description: | # this will include new lines to allow paragraphs
+        SageMath, React, React Native, node-forge, pki.js, SWR, XState, backbone.js, vis.js, jQuery, Spring-Boot, Jackson, Kryo, Equinox, JavaParser, StringTemplate, Bulma, Jest, JUnit 4-5, Apache Commons, iText, Sigar, Lean Functional Testing, Swing
+    - layout: top-left
+      text-alignment: left
+      title: IDEs
+      description: | # this will include new lines to allow paragraphs
+        IntelliJ, VSCode, Atom, Eclipse, Xcode
+    - layout: top-left
+      text-alignment: left
+      title: Operating Systems
+      description: | # this will include new lines to allow paragraphs
+        Linux, MacOS X, Windows
+    - layout: top-left
+      text-alignment: left
+      title: DBMSs
+      description: | # this will include new lines to allow paragraphs
+        MySQL, GraphQL
+    - layout: top-left
+      text-alignment: left
+      left-margin:
+      title: Misc
+      description: | # this will include new lines to allow paragraphs
+        LaTeX, UML, Git, Maven, HTML, CSS, WordPress, Jekyll, Jenkins, Bitbucket, Jira, Mantis, Sourcetree, Agile Methods, Agile Projectmanagement, Software Architecture
+    - layout: top-left
+      text-alignment: left
+      title: Certificates & Additional Courses
+      description: | # this will include new lines to allow paragraphs
+        <div>
+          <input type="checkbox" class="read-more-state" id="position-4" />
+          <ul class="read-more-wrap">
+            <li>Introduction to Enumerative Combinatorics - HSE University (Coursera),</li>
+            <li>Information Security: Context and Introduction - University of London (Coursera),</li>
+            <li class="read-more-target">Certified Tester Foundation Level (CTFL) - German Testing Board e.V.,</li>
+            <li class="read-more-target">The Complete React Native + Hooks Course (Udemy),</li>
+            <li class="read-more-target">The Modern JavaScript Bootcamp Course (Udemy),</li>
+            <li class="read-more-target">Programming in Mathematica (Udemy).</li>
+          </ul>
+          <label for="position-4" class="read-more-trigger"></label>
+        </div>

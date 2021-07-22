@@ -1,0 +1,22 @@
+- title: Publications
+  layout: list
+  content:
+    - layout: top-left
+      title: Dr. rer. nat. // Ph.D.
+      sub_title: Institute for Computer Science, University of Cologne
+      caption: 2021 - current
+      description: | # this will include new lines to allow paragraphs
+        Research areas: structural graph theory, chromatic graph theory.
+
+        Supervisor: Prof. Dr. habil. Hubert Randerath.
+- title: Talks
+  layout: list
+  content:
+    - layout: top-left
+      title: Dr. rer. nat. // Ph.D.
+      sub_title: Institute for Computer Science, University of Cologne
+      caption: 2021 - current
+      description: | # this will include new lines to allow paragraphs
+        Research areas: structural graph theory, chromatic graph theory.
+
+        Supervisor: Prof. Dr. habil. Hubert Randerath.

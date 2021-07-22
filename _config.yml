@@ -1,0 +1,70 @@
+# Site
+repository: pgrepds/pgrepds.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: David Scholz
+title: Graph Theorist, Computer Scientist, Software Engineer
+email: david.scholz@pgrepds.io
+pgpkey_fingerprint: "C598 A64F B172 98B6 F31D B7F8 62EA 240E FF87 32AE"
+# email_title: Email (Email title override)
+# phone_title: Phone (Phone title override)
+website: https://pgrepds.io
+# website_title: Web (Website title override)
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+twitter_username: pgrepds
+github_username:  pgrepds
+stackexchange_username: "869099/david-scholz?tab=profile"
+linkedin_username: david-scholz-ba6b221a6/
+orcid_username: 0000-0003-0135-3249
+researchgate_username: David-Scholz-4
+googleschoolar_username: "JSyO9hUAAAAJ&hl=de"
+arxiv_username: ""
+
+# Additional icon links
+# additional_links:
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+ I am a Ph.D. student at the University of Cologne at the Institute for Computer Science.
+ 
+ My research interests lie in chromatic- and structural graph theory, mostly on the structure of graphs with certain forbidden induced subgraphs. In particular I am interested in the chi-boundedness of graphs, what structural relationships make a graph chi-bounded and how an efficient algorithm for constructing an optimal colouring can be derived from this relationships.
+
+# Footer
+footer_show_references: true
+references_title: Copyright (C) 2021
+# references_title: References on request (Override references text)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+include: ['_pages']
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

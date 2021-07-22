@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  {%- include head.html -%} {%- include navigation.html -%}
+
+  <body
+    class="
+      {%
+      if
+      site.darkmode
+      ==
+      true
+      and
+      site.darkmode
+      !=
+      'never'
+      %}dark{%
+      endif
+      %}
+    "
+  >
+    <main class="page-content" aria-label="Content">
+      <div class="container">
+        <div class="wrapper">{{content}}</div>
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+  </body>
+</html>

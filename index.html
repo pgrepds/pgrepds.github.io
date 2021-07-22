@@ -1,0 +1,34 @@
+---
+layout: default
+title: "home"
+order: 0
+---
+
+{%- include header.html -%} {%- include about.html -%} {% for section in
+site.data.about %}
+  {% if section.flex-direction == "row" %}
+    <div>
+      <h3>{{ section.title }}</h3>
+      <div class="research-interests">
+        {% for object in section.content %}
+        <div class="col">
+          <div class="title">
+            <h4>{{ object.title }}</h4>
+          </div>
+          <div class="description">
+            <p>{{ object.description | strip | markdownify }}</p>
+          </div>
+        </div>
+      {% endfor %}
+      </div>
+    </div>
+  {% else %}
+    <div class="{{ section.layout }}-container">
+      <h3>{{ section.title }}</h3>
+        <div>
+          {% include {{ section.layout | prepend: "section-" | append: ".html" }}
+          content=section.content %}
+        </div>
+    </div>
+  {% endif %}
+{% endfor %}
