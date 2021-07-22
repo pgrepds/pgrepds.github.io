@@ -2,10 +2,10 @@
   <div class="site-navigation h4">
     {% assign pages = site.pages | sort: "order" %}
     {% for page in pages %}
-        {% unless page.exclude %}
+        {% if page.title == "publications" or page.title == "resume" or page.title == "contact" or page.title == "teaching" or page.title == "home"%}
             <a class="page-link top-navigation" href="{{ page.url | absolute_url }}">{{ page.title }}</a
             ><span class="exclamationMark">/</span>
-        {% endunless page.exclude %}
+        {% endif %}
     {% endfor %}
   </div>
 </div>
