@@ -55,6 +55,31 @@
   background-position: center;
 }
 
+.bash-code {
+  background-color: #2D333B;
+  display: block;
+  border-radius: 6px;
+  line-height: 1.45;
+  overflow: auto;
+  padding: 16px;
+  font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+  p {
+    font-size: 14px;
+  }
+}
+
+.contact-block {
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  border-left: 6px solid #2D333B;
+  .fingerprint { 
+    margin-bottom: 5px;
+    p {
+      margin: unset;
+    }
+  }
+}
+
 .into-text-1 {
   margin-top: 30px;
 }
