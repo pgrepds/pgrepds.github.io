@@ -9,6 +9,8 @@
         Research areas: structural graph theory, chromatic graph theory.
 
         Supervisor: Prof. Dr. habil. Hubert Randerath.
+
+        Additional modules: Efficient Algorithms
     - layout: top-left
       title: Master of Science (M.Sc.) Computer Science & Engineering
       sub_title: TH Köln - University of Applied Sciences
@@ -89,12 +91,12 @@
       text-alignment: left
       title: Programming Languages
       description: | # this will include new lines to allow paragraphs
-        Java, JavaScript, TypeScript, Python, Kotlin, C++, Mathematica, Bash
+        Java, JavaScript, TypeScript, Python, Rust, Kotlin, Swift, C++, Mathematica, Bash
     - layout: top-left
       text-alignment: left
       title: Frameworks and Libraries
       description: | # this will include new lines to allow paragraphs
-        SageMath, React, React Native, node-forge, pki.js, SWR, XState, backbone.js, vis.js, jQuery, Spring-Boot, Jackson, Kryo, Equinox, JavaParser, StringTemplate, Bulma, Jest, JUnit 4-5, Apache Commons, iText, Sigar, Lean Functional Testing, Swing
+        SageMath, React, React Native, node-forge, pki.js, CommonCrypto, CryptoKit, SWR, XState, backbone.js, vis.js, jQuery, Spring-Boot, Jackson, Kryo, Equinox, JavaParser, StringTemplate, Bulma, Jest, JUnit 4-5, Apache Commons, iText, Sigar, Lean Functional Testing, Swing
     - layout: top-left
       text-alignment: left
       title: IDEs
@@ -115,7 +117,7 @@
       left-margin:
       title: Misc
       description: | # this will include new lines to allow paragraphs
-        LaTeX, UML, Git, Maven, HTML, CSS, WordPress, Jekyll, Jenkins, Bitbucket, Jira, Mantis, Sourcetree, Agile Methods, Agile Projectmanagement, Software Architecture
+        LaTeX, UML, Git (Gitflow, trunk-based), Yarn, Maven, HTML, CSS, WordPress, Jekyll, Jenkins, Bitbucket, Jira, Mantis, Sourcetree, Agile Methods, Software Architecture
     - layout: top-left
       text-alignment: left
       title: Certificates & Additional Courses

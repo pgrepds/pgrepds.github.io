@@ -38,7 +38,7 @@ arxiv_username: ""
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- I am a Ph.D. student at the University of Cologne at the Institute for Computer Science.
+ I am a Ph.D. candidate at the University of Cologne at the Institute for Computer Science.
  
  My research interests lie in chromatic- and structural graph theory, mostly on the structure of graphs with certain forbidden induced subgraphs. In particular I am interested in the chi-boundedness of graphs, what structural relationships make a graph chi-bounded and how an efficient algorithm for constructing an optimal colouring can be derived from this relationships.
 
