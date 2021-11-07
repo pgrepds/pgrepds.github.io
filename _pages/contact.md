@@ -11,7 +11,7 @@ order: 4
 
 <div class="contact-block">
     <p>The preferred way to contact me is via email using PGP encryption.
-    I uploaded my master key to the <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/C598A64FB17298B6F31DB7F862EA240EFF8732AE">OpenPGP keyserver</a>. I encourage you to verify the fingerprint of this master key using some other communication channel than this website, e.g. through my <a href="https://keybase.io/pgrepds">keybase</a> account.</p>
+    I uploaded my key to the <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/C598A64FB17298B6F31DB7F862EA240EFF8732AE">OpenPGP keyserver</a>. I encourage you to verify the fingerprint of this key using some other communication channel than this website, e.g. through my <a href="https://keyoxide.org/62EA240EFF8732AE">Keyoxide</a> or <a href="https://github.com/pgrepds">GitHub</a> account.</p> 
     <p>Email: <a href="mailto:david.scholz@pgrepds.io" target="_blank">david.scholz@pgrepds.io</a></p>
 
     <div class="bash-code fingerprint">
