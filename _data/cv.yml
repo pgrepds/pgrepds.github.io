@@ -111,7 +111,7 @@
       text-alignment: left
       title: DBMSs
       description: | # this will include new lines to allow paragraphs
-        MySQL, GraphQL
+        MySQL
     - layout: top-left
       text-alignment: left
       left-margin:
