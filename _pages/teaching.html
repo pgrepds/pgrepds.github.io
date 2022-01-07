@@ -1,16 +1,16 @@
----
-permalink: "/teaching/"
-layout: default
-title:  "teaching"
-order: 3
----
-
-{% for section in
-    site.data.teaching %}
-    <div class="{{ section.layout }}-container">
-      <h3>{{ section.title }}</h3>
-      {% include {{ section.layout | section.text-alignment | prepend: "section-" | append: ".html" }}
-      content=section.content %}
-    </div>
-{% endfor %}
+%---
+%permalink: "/teaching/"
+%layout: default
+%title:  "teaching"
+%order: 3
+%---
+%
+%{% for section in
+%    site.data.teaching %}
+%    <div class="{{ section.layout }}-container">
+%      <h3>{{ section.title }}</h3>
+%      {% include {{ section.layout | section.text-alignment | prepend: "section-" | append: ".html" }}
+%      content=section.content %}
+%    </div>
+%{% endfor %}
 
