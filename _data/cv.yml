@@ -91,7 +91,7 @@
       text-alignment: left
       title: Programming Languages
       description: | # this will include new lines to allow paragraphs
-        Java, JavaScript, TypeScript, Python, Rust, Kotlin, Swift, C++, Mathematica, Bash
+        Java, JavaScript, TypeScript, Python, Julia, Rust, Kotlin, Bash
     - layout: top-left
       text-alignment: left
       title: Frameworks and Libraries
@@ -126,6 +126,7 @@
           <input type="checkbox" class="read-more-state" id="position-4" />
           <ul class="read-more-wrap">
             <li>Introduction to Enumerative Combinatorics - HSE University (Coursera),</li>
+            <li>Introduction to Galois Theory - HSE University (Coursera),</li>
             <li class="read-more-target">Certified Tester Foundation Level (CTFL) - German Testing Board e.V.,</li>
             <li class="read-more-target">The Complete React Native + Hooks Course (Udemy),</li>
             <li class="read-more-target">The Modern JavaScript Bootcamp Course (Udemy).</li>
