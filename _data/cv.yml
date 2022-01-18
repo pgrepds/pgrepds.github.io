@@ -126,11 +126,9 @@
           <input type="checkbox" class="read-more-state" id="position-4" />
           <ul class="read-more-wrap">
             <li>Introduction to Enumerative Combinatorics - HSE University (Coursera),</li>
-            <li>Information Security: Context and Introduction - University of London (Coursera),</li>
             <li class="read-more-target">Certified Tester Foundation Level (CTFL) - German Testing Board e.V.,</li>
             <li class="read-more-target">The Complete React Native + Hooks Course (Udemy),</li>
-            <li class="read-more-target">The Modern JavaScript Bootcamp Course (Udemy),</li>
-            <li class="read-more-target">Programming in Mathematica (Udemy).</li>
+            <li class="read-more-target">The Modern JavaScript Bootcamp Course (Udemy).</li>
           </ul>
           <label for="position-4" class="read-more-trigger"></label>
         </div>
