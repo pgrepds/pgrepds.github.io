@@ -17,7 +17,7 @@
 - title: Personal Interests
   layout: text
   content: | # this will include new lines to allow paragraphs
-    Research takes up most of my life. In the little time available, I am very interested in group theory, combinatorics and the computer algebra system SageMath which I use on a daily basis.  I currently work a lot with the Julia programming language and plan to contribute to some of the Julia packages, especially in the area of graph theory and combinatorics.
+    Research takes up most of my life. In the little time available, I am very interested in group theory, combinatorics and the computer algebra system [SageMath](https://www.sagemath.org/) which I use on a daily basis.  I currently work a lot with the [Julia](https://julialang.org/) programming language and plan to contribute to some of the Julia packages, especially in the area of graph theory and combinatorics.
     
     I started a [blog](https://blog.pgrepds.io/) where I want to write about various different topics, but mainly mathematical and software related. I am in the top 16% on [Math Stack Exchange](https://math.stackexchange.com/users/869099/david-scholz) and I owe so much to this wonderful community.
 
@@ -25,4 +25,4 @@
 
     I was a passionate endurance athlete for a long time and still do a variety of sports, such as running, swimming and weight training. Besides that, I currently like to occupy myself with the philosophy of Immanuel Kant, the literature of J.R.R. Tolkien and with playing chess.
 
-    I am fascinated by the endless exactness, flawlessness and pure beauty of mathematics and its consequent manifestation in computer science. Especially the apparent simplicity of graph theory, which can become so arbitrarily complex, captivates me every day and drives me into a perfectionist obsession to solve its problems and I could not be more grateful for the opportunity to realise myself in science, and no matter how strenuous the path may become, it is a quite wonderful one.
+    Perhaps to conclude, I am mainly fascinated by the endless exactness, flawlessness and pure beauty of mathematics and its consequent manifestation in computer science. Especially the apparent simplicity of graph theory, which can become so arbitrarily complex, captivates me every day and drives me into a perfectionist obsession to solve its problems and I could not be more grateful for the opportunity to realise myself in science, and no matter how strenuous the path may become, it is a quite wonderful one.
