@@ -17,7 +17,11 @@
 - title: Personal Interests
   layout: text
   content: | # this will include new lines to allow paragraphs
-    Research takes up most of my life. In the little time available, I am interested in the latest technologies used in software development, in current programming languages and in almost all new achievements from other fields of mathematics, computer science and physics.
+    Research takes up most of my life. In the little time available, I am very interested in group theory, combinatorics and the computer algebra system SageMath which I use on a daily basis.  I currently work a lot with the Julia programming language and plan to contribute to some of the Julia packages, especially in the area of graph theory and combinatorics.
+    
+    I started a [blog](https://blog.pgrepds.io/) where I want to write about various different topics, but mainly mathematical and software related. I am in the top 16% on [Math Stack Exchange](https://math.stackexchange.com/users/869099/david-scholz) and I owe so much to this wonderful community.
+
+    I participate regularly in [Project Euler](https://projecteuler.net) and I might discuss some of the problems in the future (of course without violating the competition rules).
 
     I was a passionate endurance athlete for a long time and still do a variety of sports, such as running, swimming and weight training. Besides that, I currently like to occupy myself with the philosophy of Immanuel Kant, the literature of J.R.R. Tolkien and with playing chess.
 
