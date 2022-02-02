@@ -44,7 +44,7 @@
         <div>
           <input type="checkbox" class="read-more-state" id="position-1" />
           <ul class="read-more-wrap">
-            <li>Development of a mobile application for iOS and Android using React Native. Particularly involved in implementing a hybrid cryptosystem (RSA, AES, PKCS#7) for client-side encryption using node-forge, pki.js and native implementation for iOS and Android,</li>
+            <li>Development of a mobile application for iOS and Android using React Native,</li>
             <li>Supporting the development of a responsive Ecommerce Website using HTML, CSS and JavaScript.</li>
           </ul>
         </div>  
@@ -91,17 +91,17 @@
       text-alignment: left
       title: Programming Languages
       description: | # this will include new lines to allow paragraphs
-        Java, JavaScript, TypeScript, Python, Julia, Rust, Kotlin, Bash
+        Java, JavaScript, TypeScript, Python, Julia, Mathematica, Rust, Kotlin, Bash
     - layout: top-left
       text-alignment: left
       title: Frameworks and Libraries
       description: | # this will include new lines to allow paragraphs
-        SageMath, React, React Native, node-forge, pki.js, CommonCrypto, CryptoKit, SWR, XState, backbone.js, vis.js, jQuery, Spring-Boot, Jackson, Kryo, Equinox, JavaParser, StringTemplate, Bulma, Jest, JUnit 4-5, Apache Commons, iText, Sigar, Lean Functional Testing, Swing
+        SageMath, React, React Native, node-forge, pki.js, CommonCrypto, CryptoKit, SWR, XState, backbone.js, vis.js, jQuery, Spring-Boot, Jackson, Kryo, Equinox, JavaParser, StringTemplate, Bulma, Jest, JUnit 4-5, Apache Commons, iText, Sigar
     - layout: top-left
       text-alignment: left
       title: IDEs
       description: | # this will include new lines to allow paragraphs
-        IntelliJ, VSCode, Atom, Eclipse, Xcode
+        VSCode, Atom, IntelliJ, Eclipse
     - layout: top-left
       text-alignment: left
       title: Operating Systems
@@ -117,7 +117,7 @@
       left-margin:
       title: Misc
       description: | # this will include new lines to allow paragraphs
-        LaTeX, UML, Git (Gitflow, trunk-based), Yarn, Maven, HTML, CSS, WordPress, Jekyll, Jenkins, Bitbucket, Jira, Mantis, Sourcetree, Agile Methods, Software Architecture
+        LaTeX, Jupyter Notebooks, Git (Gitflow, trunk-based), Yarn, NPM, Maven, HTML, CSS, WordPress, Jekyll, Jenkins, Bitbucket, Jira, Mantis, Sourcetree, Agile Methods, Software Architecture
     - layout: top-left
       text-alignment: left
       title: Certificates & Additional Courses
@@ -125,11 +125,15 @@
         <div>
           <input type="checkbox" class="read-more-state" id="position-4" />
           <ul class="read-more-wrap">
-            <li>Introduction to Enumerative Combinatorics - HSE University (Coursera),</li>
-            <li>Introduction to Galois Theory - HSE University (Coursera),</li>
+            <li>Introduction to Complex Analysis - Wesleyan University (Coursera),</li>
+            <li>Analytic Combinatorics - Princeton University (Coursera),</li>
+            <li class="read-more-target">Introduction to Enumerative Combinatorics - HSE University (Coursera),</li>
+            <li class="read-more-target">Introduction to Galois Theory - HSE University (Coursera),</li>
             <li class="read-more-target">The Complete React Native + Hooks Course (Udemy),</li>
-            <li class="read-more-target">The Modern JavaScript Bootcamp Course (Udemy).</li>
-            <li class="read-more-target">Certified Tester Foundation Level (CTFL) - German Testing Board e.V.,</li>
+            <li class="read-more-target">The Modern JavaScript Bootcamp Course (Udemy)</li>
+            <li class="read-more-target">Programming in Mathematica (Udemy),</li>
+            <li class="read-more-target">Julia Programming Language - From Zero to Expert (Udemy),</li>
+            <li class="read-more-target">Certified Tester Foundation Level (CTFL) - German Testing Board e.V.</li>
           </ul>
           <label for="position-4" class="read-more-trigger"></label>
         </div>
