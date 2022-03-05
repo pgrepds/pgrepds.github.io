@@ -127,12 +127,17 @@
           <ul class="read-more-wrap">
             <li>Introduction to Complex Analysis - Wesleyan University (Coursera),</li>
             <li>Analytic Combinatorics - Princeton University (Coursera),</li>
-            <li class="read-more-target">Introduction to Enumerative Combinatorics - HSE University (Coursera),</li>
-            <li class="read-more-target">Introduction to Galois Theory - HSE University (Coursera),</li>
+            <li class="read-more-target">Analysis of Algorithms - Princeton University (Coursera),</li>
+            <li class="read-more-target">Approximation Algorithms - EIT Digital (Coursera),</li>
             <li class="read-more-target">The Complete React Native + Hooks Course (Udemy),</li>
-            <li class="read-more-target">The Modern JavaScript Bootcamp Course (Udemy)</li>
+            <li class="read-more-target">The Modern JavaScript Bootcamp Course (Udemy),</li>
+            <li class="read-more-target">Typescript: The Complete Developer's Guide (Udemy),</li>
+            <li class="read-more-target">JavaScript Algorithms and Data Structures Masterclass (Udemy),</li>
+            <li class="read-more-target">The Complete 2022 Web Development Bootcamp (Udemy),</li>
             <li class="read-more-target">Programming in Mathematica (Udemy),</li>
+            <li class="read-more-target">Julia Scientific Programming - University of Cape Town (Coursera),</li>
             <li class="read-more-target">Julia Programming Language - From Zero to Expert (Udemy),</li>
+            <li class="read-more-target">Kotlin for Java Developers - JetBrains (Coursera),</li>
             <li class="read-more-target">Certified Tester Foundation Level (CTFL) - German Testing Board e.V.</li>
           </ul>
           <label for="position-4" class="read-more-trigger"></label>
