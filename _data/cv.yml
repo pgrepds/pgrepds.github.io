@@ -91,12 +91,12 @@
       text-alignment: left
       title: Programming Languages
       description: | # this will include new lines to allow paragraphs
-        Java, JavaScript, TypeScript, Python, Julia, Mathematica, Rust, Kotlin, Bash
+        Java, JavaScript, TypeScript, Python, Julia, Kotlin, Mathematica, Rust, Bash
     - layout: top-left
       text-alignment: left
       title: Frameworks and Libraries
       description: | # this will include new lines to allow paragraphs
-        SageMath, React, React Native, node-forge, pki.js, CommonCrypto, CryptoKit, SWR, XState, backbone.js, vis.js, jQuery, Spring-Boot, Jackson, Kryo, Equinox, JavaParser, StringTemplate, Bulma, Jest, JUnit 4-5, Apache Commons, iText, Sigar
+        SageMath, React, React Native, node-forge, pki.js, CommonCrypto, CryptoKit, SWR, XState, backbone.js, vis.js, jQuery, axios, node-fetch, Bootstrap, Spring-Boot, Jackson, Kryo, Equinox, JavaParser, StringTemplate, Bulma, Jest, JUnit, iText, Sigar
     - layout: top-left
       text-alignment: left
       title: IDEs
@@ -111,13 +111,13 @@
       text-alignment: left
       title: DBMSs
       description: | # this will include new lines to allow paragraphs
-        MySQL
+        MySQL, MongoDB
     - layout: top-left
       text-alignment: left
       left-margin:
       title: Misc
       description: | # this will include new lines to allow paragraphs
-        LaTeX, Jupyter Notebooks, Git (Gitflow, trunk-based), Yarn, NPM, Maven, HTML, CSS, WordPress, Jekyll, Jenkins, Bitbucket, Jira, Mantis, Sourcetree, Agile Methods, Software Architecture
+        LaTeX, MathJax, Jupyter Notebooks, Git (Gitflow, trunk-based), Yarn, NPM, Docker, Maven, HTML, CSS, WordPress, Jekyll, Jenkins, Bitbucket, Jira, Mantis, Trello, Sourcetree, Agile Methods, Software Architecture, Self-hosting (OPNSense, Nginx)
     - layout: top-left
       text-alignment: left
       title: Certificates & Additional Courses
