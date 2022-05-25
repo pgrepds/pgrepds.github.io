@@ -13,10 +13,17 @@
             </a>
           </li>
         {%- endif -%}
-        {%- if site.mastodon_username -%}
+        {%- if site.stackexchange_username -%}
           <li>
-            <a target="_blank" href="https://fosstodon.org/web/@pgrepds" class="button button--sacnite button--round-l">
-              <i class="fab fa-mastodon"></i>
+            <a target="_blank" href="https://stackoverflow.com/users/{{ site.stackexchange_username | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-stack-overflow" title="Stack Exchange"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.hashnode -%}
+          <li>
+            <a target="_blank" href="https://blog.pgrepds.io/" class="button button--sacnite button--round-l">
+              <i class="fa-brands fa-hashnode" title="Blog"></i>
             </a>
           </li>
         {%- endif -%}
@@ -27,10 +34,10 @@
             </a>
           </li>
         {%- endif -%}
-        {%- if site.stackexchange_username -%}
+        {%- if site.mastodon_username -%}
           <li>
-            <a target="_blank" href="https://stackoverflow.com/users/{{ site.stackexchange_username | escape }}" class="button button--sacnite button--round-l">
-              <i class="fab fa-stack-overflow" title="Stack Exchange"></i>
+            <a target="_blank" href="https://fosstodon.org/web/@pgrepds" class="button button--sacnite button--round-l">
+              <i class="fab fa-mastodon"></i>
             </a>
           </li>
         {%- endif -%}
