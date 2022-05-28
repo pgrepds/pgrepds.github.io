@@ -17,7 +17,7 @@ order: 4
     <div class="bash-code fingerprint">
         <p>&gt;_ Fingerprint: C598 A64F B172 98B6 F31D B7F8 62EA 240E FF87 32AE</p>
     </div>
-  <p>The integrity of the website is protected using a dedicated signing subkey. Every version of this website is tagged and all tags are signed. In order to verify a given tag run the following commands</p>
+  <p>The integrity of the website is protected. Every version of this website is tagged and all tags are signed. In order to verify a given tag run the following commands</p>
 </div>
 
 <div>
