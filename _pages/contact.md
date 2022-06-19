@@ -25,7 +25,7 @@ order: 4
         <p>
         git describe --exact-match HEAD<br>
         &lt;tag&gt;<br>
-        git &lt;tag&gt; -v
+        git verify-tag &lt;tag&gt;
         </p>
     </div>
 </div>
