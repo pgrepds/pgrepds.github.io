@@ -30,7 +30,7 @@ The integrity of the website is protected using a dedicated signing subkey. Ever
 ```bash
 git describe --exact-match HEAD
 <tag>
-git tag -v <tag>z
+git verify-tag <tag>
 ```
 >
   > Fingerprint: C598 A64F B172 98B6 F31D B7F8 62EA 240E FF87 32AE
