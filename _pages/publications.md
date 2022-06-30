@@ -11,5 +11,5 @@ order: 2
 
 ### Talks
 
-* 01/07/22 at the **1st Doctoral Seminar** at the University of Cologne at the Department of Mathematics and Computer Science. $\chi$-Binding Functions and Forbidden Induced Subgraphs. [[pdf]](https://github.com/pgrepds/publications/raw/main/talks/2022-07-01-Doktorandenseminar-Uni-Koeln-Scholz-David.pdf)
+* 01/07/22 at the **1st Doctoral Seminar** at the University of Cologne at the Department of Mathematics and Computer Science. Chi-Binding Functions and Forbidden Induced Subgraphs. [[pdf]](https://github.com/pgrepds/publications/raw/main/talks/2022-07-01-Doktorandenseminar-Uni-Koeln-Scholz-David.pdf)
 * 15/01/21 at the **Computer Science Colloquium** at the University of Cologne. Generating Subfamilies of 1-Planar Graphs for automated Conjecture-Making. [[pdf]](https://github.com/pgrepds/publications/raw/main/talks/2021-01-15-Generating_optimal_1_planar_graphs_for_automated_conjecture_making.pdf)
